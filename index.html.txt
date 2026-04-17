@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>Books</title>
+</head>
+<body>
+<h3>Welcome to store</h3>
+<p>Books available here</p>
+<a href="#">Buy</a>
+</body>
+</html>
